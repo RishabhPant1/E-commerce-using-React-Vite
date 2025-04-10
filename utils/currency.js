@@ -1,0 +1,1 @@
+export const convertToINR = (usd) => Math.round(usd * 83);
